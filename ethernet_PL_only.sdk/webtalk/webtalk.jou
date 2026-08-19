@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1.1 (64-bit)
+# SW Build 2580384 on Sat Jun 29 08:12:21 MDT 2019
+# 
+# Start of session at: Mon Aug 17 15:05:08 2026
+# Process ID: 26616
+# Current directory: C:/Users/vieira/Downloads/PortableGit/ethernet_PL_only/ethernet_PL_only.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/vieira/Downloads/PortableGit/ethernet_PL_only/ethernet_PL_only.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/vieira/Downloads/PortableGit/ethernet_PL_only/ethernet_PL_only.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
